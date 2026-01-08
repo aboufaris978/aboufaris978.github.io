@@ -406,33 +406,6 @@
         footer p {
             opacity: 0.8;
         }
-        
-        @media (max-width: 768px) {
-            nav ul {
-                gap: 1rem;
-            }
-            
-            nav a {
-                padding: 0.3rem 0.5rem;
-                font-size: 0.9rem;
-            }
-            
-            .hero h2 {
-                font-size: 2rem;
-            }
-            
-            .hero .subtitle {
-                font-size: 1.2rem;
-            }
-            
-            .section-title {
-                font-size: 2rem;
-            }
-            
-            .about-stats {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
     
         /* ========================================
    RESPONSIVE DESIGN POUR SMARTPHONES
